@@ -1,4 +1,4 @@
-# CodeForces Analyzer 🏆
+# CodeForces Analyzer 
 
 A web-based application for analyzing **CodeForces** competitive programming problems and contests. This tool helps competitive programmers track their progress, analyze problem difficulty, compare contest results, and discover random problems for practice.
 
@@ -15,7 +15,7 @@ A web-based application for analyzing **CodeForces** competitive programming pro
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Backend**: Python (Flask)
 - **Frontend**: HTML5, CSS3, JavaScript
@@ -24,7 +24,7 @@ A web-based application for analyzing **CodeForces** competitive programming pro
 
 ---
 
-## 📦 Installation
+## Installation
 
 ### Prerequisites
 - Python 3.7 or higher
